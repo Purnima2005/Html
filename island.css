@@ -1,0 +1,43 @@
+li {
+    display: inline;
+  }
+  li a {
+    padding: 29px;
+  
+  }
+  
+  .container{
+      text-align: center;
+  }
+  
+  .header_container{
+      border: 3px solid black;
+      background-image: url(images.jpg);
+      background-size: cover;
+      width: 100%;
+      height: 300px;
+      background-position: center;
+      background-repeat: no-repeat;
+      padding: 0%;
+      margin: 0%;
+      content: none;
+  }
+  
+  .mycontainer {
+    display: flex;
+  }
+  
+  .mycontainer > div {
+    width:33%;
+  }
+  .tour{
+    margin: 25px;
+    border: 1px solid #ccc;
+    width: 180px;
+    display: inline;
+    border-radius: 100px;
+    margin-bottom: 25px;
+  }
+  img{
+    border-radius: 100px;
+  }
